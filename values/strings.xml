@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name" translatable="false">MTK Engineer Mode</string>
+	<string name="mtkeng">MTK ENGINEER MODE</string>
+	<string name="at">ANDROID TESTING</string>
+	<string name="tcl_debug">TCL DEBUG</string>
+	<string name="app_version">Version</string>
+	<string name="app_developer">Developer</string>
+	<string name="about">About</string>
+	<string name="error">The access to the engineer mode is not possible because that you are using a Custom ROM (Custom ROMs does not support the MTK engineer mode). If you are using a stock based rom or the stock, is posible that the developer or you have removed the EngineerMode.apk from your current ROM</string>
+	<string name="error_title">COULD NOT START!</string>
+	<string name="unsupported_device">UNSUPPORTED DEVICE!</string>
+	<string name="ok">Ok</string>
+	<string name="exit">Exit</string>
+	<string name="hardware_error">It seems that your phone is not a Mediatek device (MTK), this application is only compatible with devices with MTK processor</string>
+	<string name="xda_thread">Go to the xda thread</string>
+	<string name="thanks">Thanks for downloading this application!</string>
+	<string name="buy_me_pizza">Buy me a pizza</string>
+	<string name="tcl_debug_error">Your ROM or firmware does not support this feature</string>
+	<string name="testing_error">Could not start due to an unknown error</string>
+	<string name="update_available">UPDATE AVAILABLE!</string>
+	<string name="update_text">Check out the latest version available of my app!</string>
+	<string name="download">Download</string>
+	<string name="not_now">Not Now</string>
+	<string name="network_type_switcher">Network Type Switcher</string>
+	<string name="development_settings">Development Settings</string>
+
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name" translatable="false">MTK Engineer Mode</string>
+	<string name="mtkeng">MODO INGENIERO DE MTK</string>
+	<string name="at">TESTEO DE ANDROID</string>
+	<string name="tcl_debug">TCL DEBUG</string>
+	<string name="app_version">Versión</string>
+	<string name="app_developer">Desarrollador</string>
+	<string name="about">Acerca de</string>
+	<string name="error">El acceso al modo ingeniero no fue posible ya que parece ser que usted usa una Custom ROM(Custom ROMs no soportan el modo ingeniero de MTK). Si estas usando ROMs basadas en stock o la stock, es posible que el desarrollador o usted haya eliminado la app EngineerMode.apk de su actual ROM.</string>
+	<string name="error_title">¡NO SE PUDO INICIAR!</string>
+	<string name="unsupported_device">¡DISPOSITIVO NO COMPATIBLE!</string>
+	<string name="ok">Entendido</string>
+	<string name="exit">Salir</string>
+	<string name="hardware_error">Parece ser que su telefono no es un dispositivo Mediatek(MTK), esta aplicación solo es compatible con dispositivos con procesador MTK</string>
+	<string name="xda_thread">Ir al hilo en xda</string>
+	<string name="thanks">¡Gracias por descargar esta aplicación!</string>
+	<string name="buy_me_pizza">Comprame una pizza</string>
+	<string name="tcl_debug_error">Su ROM o firmware no soporta esta característica</string>
+	<string name="testing_error">No se pudo iniciar debido a un error desconocido</string>
+	<string name="update_available">ACTUALIZACIÓN DISPONIBLE!</string>
+	<string name="update_text">Checa la mas reciente versión disponible de mi app!</string>
+	<string name="download">Descargar</string>
+	<string name="not_now">Ahora No</string>
+	<string name="network_type_switcher">Cambiar Tipo de Red</string>
+	<string name="development_settings">Ajustes de Desarrollo</string>
+
+</resources>
