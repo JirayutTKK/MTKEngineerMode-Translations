@@ -8,7 +8,7 @@
 	<string name="app_version">Version</string>
 	<string name="app_developer">Developer</string>
 	<string name="about">About</string>
-	<string name="error">The access to the engineer mode is not possible because that you are using a Custom ROM (Custom ROMs does not support the MTK engineer mode). If you are using a stock based rom or the stock, is posible that the developer or you have removed the EngineerMode.apk from your current ROM</string>
+	<string name="error">The access to the engineer mode is not possible because you are using a Custom ROM (Custom ROMs do not support the MTK engineer mode). If you are using a stock based ROM, it is posible that the developer has removed the EngineerMode.apk from your current ROM</string>
 	<string name="error_title">COULD NOT START!</string>
 	<string name="unsupported_device">UNSUPPORTED DEVICE!</string>
 	<string name="ok">Ok</string>
