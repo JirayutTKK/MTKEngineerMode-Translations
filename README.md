@@ -14,3 +14,7 @@ Strings of MTK Engineer Mode
 4- Make a pull request
 
 Any help is welcomed!
+
+<b>Translations</b>
+- English translated by ZonaRMR & kirito9
+- Spanish translated by ZonaRMR
