@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name" translatable="false">MTK Engineer Mode</string>
+	<string name="mtkeng">MTK ENGINEER MODE</string>
+	<string name="at">ANDROID SINAMASI</string>
+	<string name="tcl_debug">TCL HATA AYIKLAMA</string>
+	<string name="app_version">Sürüm</string>
+	<string name="app_developer">Geliştirici</string>
+	<string name="about">Hakkında</string>
+	<string name="error">Mühendislik moduna erişim olası değil çünkü özel bir yazılım (ROM) kullanıyorsunuz. (Özel yazılımlar MTK Mühendislik Modunu desteklemez). Eğer stok tabanlı bir yazılım kullanıyorsanız, güncel yazılımınızın geliştiricisi Mühendislik Modu\'nu kaldırmış olabilir.</string>
+	<string name="error_title">BAŞLATILAMADI!</string>
+	<string name="unsupported_device">DESTEKLENMEYEN AYGIT!</string>
+	<string name="ok">Tamam</string>
+	<string name="exit">Çıkış</string>
+	<string name="hardware_error">Görünüşe göre aygıtınız bir Mediatek (MTK) değil. Bu uygulama yalnızca MTK işlemcili aygıtlar ile uyumludur.</string>
+	<string name="xda_thread">XDA konusuna git</string>
+	<string name="thanks">Bu uygulamayı yüklediğiniz için teşekkürler!</string>
+	<string name="buy_me_pizza">Bana bir pizza bağışla</string>
+	<string name="tcl_debug_error">Yazılım bu özelliği desteklemiyor</string>
+	<string name="testing_error">Bilinmeyen bir hatadan ötürü başlatılamadı</string>
+	<string name="update_available">GÜNCELLEME MEVCUT!</string>
+	<string name="update_text">Uygulamamın kullanılabilir en son sürümünü denetle!</string>
+	<string name="download">İndir</string>
+	<string name="not_now">Şimdi değil</string>
+	<string name="network_type_switcher">Bağlantı türü değiştirici</string>
+	<string name="development_settings">Geliştirme seçenekleri</string>
+
+</resources>
