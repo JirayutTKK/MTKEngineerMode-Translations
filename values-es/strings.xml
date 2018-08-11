@@ -8,7 +8,7 @@
 	<string name="app_version">Versión</string>
 	<string name="app_developer">Desarrollador</string>
 	<string name="about">Acerca de</string>
-	<string name="error">El acceso al modo ingeniero no fue posible ya que parece ser que usted usa una Custom ROM(Custom ROMs no soportan el modo ingeniero de MTK). Si estas usando ROMs basadas en stock o la stock, es posible que el desarrollador o usted haya eliminado la app EngineerMode.apk de su actual ROM.</string>
+	<string name="error">El acceso al modo ingeniero no fue posible ya que parece ser que usted usa una Custom ROM(Custom ROMs no soportan el modo ingeniero de MTK). Si estas usando ROMs basadas en stock, es posible que el desarrollador o usted haya eliminado la app EngineerMode.apk de su actual ROM.</string>
 	<string name="error_title">¡NO SE PUDO INICIAR!</string>
 	<string name="unsupported_device">¡DISPOSITIVO NO COMPATIBLE!</string>
 	<string name="ok">Entendido</string>
