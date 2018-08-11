@@ -18,3 +18,4 @@ Any help is welcomed!
 <b>Translations</b>
 - English translated by ZonaRMR & kirito9
 - Spanish translated by ZonaRMR
+- Turkish translated by berkantkz
