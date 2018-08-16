@@ -15,7 +15,7 @@ Strings of MTK Engineer Mode
 
 Any help is welcomed!
 
-Locales:
+<b>Locales:</b>
 values-<b>af</b> (Afrikaans)
 values-<b>am</b> (Amharic)
 values-<b>ar</b> (Arabic)
